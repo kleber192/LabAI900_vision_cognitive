@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "101e0ead-7113-423f-a920-0ee10493effe",
+  "comprimento do conteúdo": "154",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "um close de flores laranja",
+    "confiança": 0,736046552658081
+  },
+  "metadados": {
+    "largura": 275,
+    "altura": 183
+  }
+}

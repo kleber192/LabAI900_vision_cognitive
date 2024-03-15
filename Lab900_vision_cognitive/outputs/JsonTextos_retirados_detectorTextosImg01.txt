@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "300f519a-193b-4be5-888b-b525be3ce130",
+  "comprimento do conteúdo": "171",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "um urso panda sentado em uma pedra comendo bambu",
+    "confiança": 0,8152090907096863
+  },
+  "metadados": {
+    "largura": 225,
+    "altura": 225
+  }
+}
